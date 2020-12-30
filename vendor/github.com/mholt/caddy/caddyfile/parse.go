@@ -21,7 +21,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/mholt/caddy/telemetry"
+	"github.com/caddyserver/caddy/telemetry"
 )
 
 // Parse parses the input just enough to group tokens, in

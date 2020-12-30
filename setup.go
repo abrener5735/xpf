@@ -5,8 +5,8 @@ import (
 
 	"github.com/coredns/coredns/core/dnsserver"
 	"github.com/coredns/coredns/plugin"
-	"github.com/mholt/caddy"
-	"github.com/mholt/caddy/caddyfile"
+	"github.com/caddyserver/caddy"
+	"github.com/caddyserver/caddy/caddyfile"
 )
 
 // PluginName is the name of our plugin
