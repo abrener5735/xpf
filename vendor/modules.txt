@@ -35,9 +35,9 @@ github.com/grpc-ecosystem/grpc-opentracing/go/otgrpc
 # github.com/matttproud/golang_protobuf_extensions v1.0.1
 github.com/matttproud/golang_protobuf_extensions/pbutil
 # github.com/mholt/caddy v1.0.0
-github.com/mholt/caddy
-github.com/mholt/caddy/caddyfile
-github.com/mholt/caddy/telemetry
+github.com/caddyserver/caddy
+github.com/caddyserver/caddy/caddyfile
+github.com/caddyserver/caddy/telemetry
 # github.com/miekg/dns v1.1.14
 github.com/miekg/dns
 # github.com/opentracing/opentracing-go v1.1.0
